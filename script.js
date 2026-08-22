@@ -12,7 +12,7 @@ const duration = document.getElementById("duration");
 
 // Change this to 11 if you only have 11 songs.
 // Leaving it at 12 is fine even if 12.mp3 doesn't exist.
-const TOTAL_SONGS = 12;
+const TOTAL_SONGS = 11;
 
 let currentSong = 1;
 
